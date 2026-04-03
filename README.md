@@ -11,10 +11,12 @@
 | Project | What it does |
 |---------|-------------|
 | [photo-organizer](https://github.com/woshizhangxiaonan-hue/photo-organizer) | 照片大规模整理 — CNN+哈希去重、EXIF归档、**绝不删原文件** |
+| [firetv-manager](https://github.com/woshizhangxiaonan-hue/firetv-manager) | Fire TV 一行命令管理 — 去臃肿、换桌面、AirPlay投屏、远程唤醒 |
+| [meta-glasses-claude](https://github.com/woshizhangxiaonan-hue/meta-glasses-claude) | RayBan Meta 智能眼镜中文AI助手 — 实时对话、营养分析、直播 |
 
 ## Tech Stack
 
-`Python` `Claude Code` `FFmpeg` `Playwright` `ExifTool`
+`Python` `Swift` `Bash` `Node.js` `Claude Code` `FFmpeg` `ADB` `ExifTool`
 
 ## About Me
 
